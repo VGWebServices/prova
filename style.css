@@ -23,7 +23,7 @@ header {
     z-index: 3;
     height: 7em;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: clamp(0.66rem, 2vw, 1rem);
+    font-size: 20px;
     letter-spacing: 0.2em;
     font-weight: bold;
 }
